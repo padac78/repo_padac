@@ -1,4 +1,4 @@
 print("Hello, World!")
 
 
-print("coucou les loulous :)")
+print("coucou les mimis :=) ")
