@@ -6,5 +6,4 @@ app = Flask(__name__)
 def hello_world():
     return 'Joyeux Anniversaire Leny!'
 
-if __name__ == '__main__':
-    app.run(debug=True,port=8080)
+
